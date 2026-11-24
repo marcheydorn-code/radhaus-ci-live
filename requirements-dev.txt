@@ -1,0 +1,4 @@
+# Werkzeuge für Tests und Prüfungen in der Pipeline
+pytest>=9,<10
+pytest-cov>=7,<8
+ruff==0.17.6
